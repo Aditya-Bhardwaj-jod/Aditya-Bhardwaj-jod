@@ -23,73 +23,8 @@
 - 🔗 REST API Development
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Aditya-Bhardwaj-jod">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aditya-Bhardwaj-jod&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Aditya-Bhardwaj-jod's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Aditya-Bhardwaj-jod&theme=radical&hide_border=true&cache_seconds=86400" alt="Aditya-Bhardwaj-jod's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Aditya-Bhardwaj-jod&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aditya Bhardwaj's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Bhardwaj-jod&theme=radical&radius=10" alt="Aditya-Bhardwaj-jod's Activity Graph" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
+sssssssssssssssssssssssssss
 
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/Aditya-Bhardwaj-jod">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya-Bhardwaj-jod&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=Aditya-Bhardwaj-jod)
-<br/>
 
 ## 🔗 Connect with Me
 <p align="center">
