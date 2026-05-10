@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
+<h3 align="center">JERRY</h3>
 <div align="center" style="border:1px solid #30363d; padding:12px 18px; display:inline-block; border-radius:8px;">
   <i>"Code with clarity. Design with purpose."</i><br><br>
     <img src="https://komarev.com/ghpvc/?username=jerryjoooddd&label=Profile%20views&color=00FFFF&style=flat-square" />
